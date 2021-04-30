@@ -4,3 +4,14 @@ The project performs style transfer and is implemented using a ResNet-50 pre-tra
 
 
 ![alt text](https://github.com/jitish3143/Res-Unet//blob/main/images/im13.png?raw=true)
+Input image
+
+![alt text](https://github.com/jitish3143/Res-Unet//blob/main/images/tar13.png?raw=true)
+Style Image
+
+![alt text](https://github.com/jitish3143/Res-Unet//blob/main/images/out_post13.png?raw=true)
+PWCT results with Matting Laplacian Post-Processing Step
+
+![alt text](https://github.com/jitish3143/Res-Unet//blob/main/images/out13.png?raw=true)
+
+PWCT results with Our Algorithm
